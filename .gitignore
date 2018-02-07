@@ -5,6 +5,7 @@ __pycache__/
 *.so
 .Python
 .idea
+load-testtmp
 build/
 develop-eggs/
 dist/
@@ -26,6 +27,7 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 htmlcov/
+tmp/
 .tox/
 .coverage
 .coverage.*
